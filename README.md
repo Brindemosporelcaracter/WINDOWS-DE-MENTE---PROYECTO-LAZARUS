@@ -87,7 +87,9 @@ Windows 10 (Todas las versiones: Pro, Home, LTSC).
 
 Windows 11 (Optimizando especialmente el consumo excesivo de la nueva Shell y widgets).
 
-Nota Técnica: En Windows 11, Lazarus es vital para recuperar la fluidez que el nuevo diseño visual suele penalizar, especialmente en equipos que no cumplen con los requisitos "oficiales" pero tienen ganas<img width="947" height="336" alt="29-4-2026 9 4 47 10" src="https://github.com/user-attachments/assets/b3b5ae7e-f1c3-4814-a2d0-c4d51076a6c4" />
+Nota Técnica: En Windows 11, Lazarus es vital para recuperar la fluidez que el nuevo diseño visual suele penalizar, especialmente en equipos que no cumplen con los requisitos "oficiales" pero tienen ganas de sobra para rendir.
+
+<img width="947" height="336" alt="29-4-2026 9 4 47 10" src="https://github.com/user-attachments/assets/b3b5ae7e-f1c3-4814-a2d0-c4d51076a6c4" />
 <img width="947" height="457" alt="29-4-2026 9 4 29 9" src="https://github.com/user-attachments/assets/6c962100-397d-4109-95ff-693afa2686b6" />
 <img width="947" height="384" alt="29-4-2026 9 4 0 16" src="https://github.com/user-attachments/assets/91e498db-db18-4280-a6fc-203a237893c6" />
 <img width="947" height="340" alt="29-4-2026 9 4 38 15" src="https://github.com/user-attachments/assets/733cd286-9620-46c1-a3e2-de7232ec4763" />
@@ -95,7 +97,7 @@ Nota Técnica: En Windows 11, Lazarus es vital para recuperar la fluidez que el 
 <img width="947" height="340" alt="29-4-2026 9 4 21 13" src="https://github.com/user-attachments/assets/475bf2ea-d725-4d8b-b7ab-300ead22a2e7" />
 <img width="947" height="468" alt="29-4-2026 9 4 11 12" src="https://github.com/user-attachments/assets/a670cc2f-e5e7-4568-b98d-6bb2c2af026a" />
 <img width="947" height="364" alt="29-4-2026 9 4 58 11" src="https://github.com/user-attachments/assets/e5b9b267-d566-4f6e-bbbf-4489997271aa" />
- de sobra para rendir.
+ 
 ## 📜 Licencia y Comunidad
 
 Este proyecto se distribuye bajo la **Licencia MIT**. 
