@@ -111,6 +111,9 @@ Este proyecto se distribuye bajo la **Licencia MIT**.
 Windows de Mente,es una filosofia, entiendo que las herramientas más potentes son aquellas que están al alcance de todos. **Proyecto Lazarus** no es solo código; es una declaración de principios: **la tecnología debe estar al servicio de la gente, y no la gente al servicio de la obsolescencia programada.**
 
 Espero sinceramente que estas líneas de código les devuelvan la agilidad a sus máquinas y les faciliten el camino, ya sea estudiando para un examen de Termodinámica o simplemente navegando sin tirones.
+La lógica de "mantenimiento preventivo" sobre el kernel.
+
+La comunidad que entiende que el software no se desgasta, se enferma de malas configuraciones.
 
 ### 📢 ¡Espero tu feedback!
 Si sos técnico, programador o simplemente un curioso del hardware:
