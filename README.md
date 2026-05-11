@@ -75,10 +75,6 @@ Aquí tenés el desarrollo de las **19 Fases (Grupos)** para el README definitiv
 ### 🔹 FASE 19: Shell Response (La Experiencia)
 * **Window Ghosting:** Evitamos que Windows marque una app como "No responde" tan rápido. Le damos tiempo al hardware a terminar su tarea sin bloquear la pantalla
 
-* ¡Perfecto, Víctor! Para cerrar un proyecto de esta magnitud, el final tiene que tener esa mezcla de **autoridad académica** y **humildad docente**. Tiene que quedar claro que esto es un aporte a la comunidad, pero con el sello de Haedo.
-
-Aquí tenés el cierre ideal para tu `README.md`, con una licencia clara y una invitación que invite al debate técnico:
-
 ---
 💻 Compatibilidad de Sistema
 El script ha sido testeado y optimizado específicamente para:
